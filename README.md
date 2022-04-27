@@ -3,6 +3,6 @@ Code for AI Desktop Navigation using Gaze Estimation which won us the 'Best Unde
 
 <b>Click the image below to redirect to the youtube link which explains the working of the project. </b>
 
-[![Youtube Video](https://github.com/Sharan-Babu/Gaze-Estimation--BitHacks-Hackathon/blob/master/Capture.JPG)](https://www.youtube.com/watch?v=TdtcmT-lACY&t=6s)
+[![Youtube Video]](https://www.youtube.com/watch?v=TdtcmT-lACY&t=6s)
 
 More details @ https://taikai.network/en/bithacks/challenges/bithacks/projects/ckbwcmtv7u72l0863i4yk8s8p
